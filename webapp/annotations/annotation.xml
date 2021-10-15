@@ -176,8 +176,7 @@
                     </Record>
                 </Annotation>
             </Annotations>
-            <Annotations Target="cds_zfe_booking_analytics_000027.BookingType/BookingDateYear">
-                
+            <Annotations Target="cds_zfe_booking_analytics_000027.BookingType/BookingDateYear">               
                 <Annotation Term="Common.ValueList">
                     <Record Type="Common.ValueListType">
                         <PropertyValue Property="CollectionPath" String="Booking"/>
@@ -193,10 +192,7 @@
                     </Record>
                 </Annotation>
             </Annotations>
-            <Annotations Target="cds_zfe_booking_analytics_000027.BookingType/CustomerID">
-                
-                
-                
+            <Annotations Target="cds_zfe_booking_analytics_000027.BookingType/CustomerID">              
                 <Annotation Term="Common.ValueList">
                     <Record Type="Common.ValueListType">
                         <PropertyValue Property="CollectionPath" String="Booking"/>
