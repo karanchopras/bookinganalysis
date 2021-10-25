@@ -145,7 +145,7 @@
                     "list": true,
                     "settings": {
                         "condensedTableLayout": true,
-                        "showGoButtonOnFilterBar": true,
+                        "showGoButtonOnFilterBar": false,
                         "tableType": "AnalyticalTable",
                         "autoHide": true,
                         "smartVariantManagement": false,
